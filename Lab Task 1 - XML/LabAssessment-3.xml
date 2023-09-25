@@ -1,0 +1,41 @@
+<informations>
+    <information sl = "1">
+        <id>1</id>
+        <name>John Deo</name>
+        <address>
+            <flat></flat>
+            <house>H#38</house>
+            <road>R#3</road>
+            <thana>Banani</thana>
+            <district>Dhaka</district>
+        </address>
+        <department>Sales</department>
+        <salary>$20000</salary>
+    </information>
+    <information sl = "2">
+        <id>2</id>
+        <name>Mark Zuckerberg</name>
+        <address>
+            <flat>FLAT#A/1</flat>
+            <house>H#20</house>
+            <road>R#18</road>
+            <thana>Mirpur</thana>
+            <district>Dhaka</district>
+        </address>
+        <department>Accounts</department>
+        <salary>$12000</salary>
+    </information>
+    <information sl = "3">
+        <id>3</id>
+        <name>Ala Voski</name>
+        <address>
+            <flat></flat>
+            <house>H#38</house>
+            <road>R#3</road>
+            <thana>Motijheeel</thana>
+            <district></district>
+        </address>
+        <department>Human Resource</department>
+        <salary>$30000</salary>
+    </information>
+</informations>
