@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+</head>
+<body>
+    <form action="register.php" method="post">
+        <fieldset>
+            <legend>Registration</legend>
+            Name: <input type="text" name="name"><br><br>
+            Email: <input type="email" name="email"><br><br>
+            User Name: <input type="text" name="username"><br><br>
+            Password: <input type="password" name="password" ><br><br>
+            Confirm Password: <input type="password" name="confirm_password" ><br><br>
+            <fieldset> <legend>Gender</legend> 
+            <input type="radio" name="gender" value="Male"> Male
+            <input type="radio" name="gender" value="Female"> Female
+            <input type="radio" name="gender" value="Others"> Others<br><br> </fieldset>
+            <fieldset> <legend>Date of Birth</legend><input type="date" name="dob" id="dob"> (dd/mm/yyyy)<br><br> </fieldset>
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+        </fieldset>
+    </form>
+</body>
+</html>
