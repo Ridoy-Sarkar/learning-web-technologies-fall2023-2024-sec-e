@@ -22,7 +22,7 @@
           <td><input type="text" name="username" id="username" value="" placeholder="Enter Your Username"/></td>
       </tr>
           <td>
-          <h4>Password:</h4></td> 
+          <h4>Email:</h4></td> 
           <td><input type="email" name="email" id="email" placeholder="Enter Your Email" /></td>
       </tr>
       </tr>
